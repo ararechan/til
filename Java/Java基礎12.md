@@ -50,6 +50,7 @@
  　左の図では、コンソールに入力された値をscanner.next()が受け取り、変数nameに代入しています。
   
   ＜Scannerの使い方の例＞
+  
       import java.util.Scanner;
       class Main {
         public static void main (String[] args) {
